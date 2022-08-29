@@ -1,4 +1,8 @@
 git init
 : To initialize
+git status
+: List all untracked files
 git add -A
-: To all the Changes to the staging area
+: To add all the Changes to the staging area
+git commit -m "messages"
+: Adding staged files to Local Repository
